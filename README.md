@@ -3,6 +3,11 @@ My personal generic Discord Rich Presence application listener with a misleading
 
 Listens to applications registered by the user and shows the activity on Discord.
 
+# Installation
+1. Install [.NET 8 SDK or Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you haven't already.
+
+2. Download the [latest release](https://github.com/Braasileiro/MirageFeathersRPC/releases/latest) and extract the zip file to any location of your choice.
+
 # Usage
 1. Open the application.
 
